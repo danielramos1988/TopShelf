@@ -1,0 +1,10 @@
+C:\Users\daniel.aplayers\Downloads\WindowsServiceWithTopshelf\WindowsServiceWithTopshelf\bin\Debug\WindowsServiceWithTopshelf.exe.config
+C:\Users\daniel.aplayers\Downloads\WindowsServiceWithTopshelf\WindowsServiceWithTopshelf\bin\Debug\WindowsServiceWithTopshelf.exe
+C:\Users\daniel.aplayers\Downloads\WindowsServiceWithTopshelf\WindowsServiceWithTopshelf\bin\Debug\WindowsServiceWithTopshelf.pdb
+C:\Users\daniel.aplayers\Downloads\WindowsServiceWithTopshelf\WindowsServiceWithTopshelf\bin\Debug\Topshelf.dll
+C:\Users\daniel.aplayers\Downloads\WindowsServiceWithTopshelf\WindowsServiceWithTopshelf\bin\Debug\Topshelf.xml
+C:\Users\daniel.aplayers\Downloads\WindowsServiceWithTopshelf\WindowsServiceWithTopshelf\obj\Debug\WindowsServiceWithTopshelf.csprojAssemblyReference.cache
+C:\Users\daniel.aplayers\Downloads\WindowsServiceWithTopshelf\WindowsServiceWithTopshelf\obj\Debug\WindowsServiceWithTopshelf.csproj.CoreCompileInputs.cache
+C:\Users\daniel.aplayers\Downloads\WindowsServiceWithTopshelf\WindowsServiceWithTopshelf\obj\Debug\WindowsServiceWithTopshelf.csproj.CopyComplete
+C:\Users\daniel.aplayers\Downloads\WindowsServiceWithTopshelf\WindowsServiceWithTopshelf\obj\Debug\WindowsServiceWithTopshelf.exe
+C:\Users\daniel.aplayers\Downloads\WindowsServiceWithTopshelf\WindowsServiceWithTopshelf\obj\Debug\WindowsServiceWithTopshelf.pdb

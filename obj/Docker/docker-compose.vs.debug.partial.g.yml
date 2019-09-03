@@ -1,0 +1,18 @@
+version: '3.4'
+
+services:
+  windowsservicewithtopshelf:
+    image: windowsservicewithtopshelf:dev
+    build:
+      args:
+        source: obj/Docker/empty/
+      labels:
+        com.microsoft.created-by: "visual-studio"
+        com.microsoft.visual-studio.project-name: "WindowsServiceWithTopshelf"
+    volumes:
+      - C:\Users\daniel.aplayers\Downloads\WindowsServiceWithTopshelf\WindowsServiceWithTopshelf:C:\app
+      - :C:\remote_debugger:ro
+    entrypoint: cmd /c "set DISABLE_PERFORMANCE_DEBUGGER=1 & C:\\remote_debugger\\x64\\msvsmon.exe /noauth /anyuser /silent /nostatus /noclrwarn /nosecuritywarn /nofirewallwarn /nowowwarn /timeout:2147483646"
+    labels:
+      com.microsoft.visualstudio.debuggee.program: "C:\\app\\"
+      com.microsoft.visualstudio.debuggee.workingdirectory: "C:\\app"

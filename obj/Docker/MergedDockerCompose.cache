@@ -1,0 +1,11 @@
+networks:
+  default:
+    external:
+      name: nat
+services:
+  windowsservicewithtopshelf:
+    build:
+      context: C:\Users\daniel.aplayers\Downloads\WindowsServiceWithTopshelf\WindowsServiceWithTopshelf
+      dockerfile: Dockerfile
+    image: windowsservicewithtopshelf
+version: '3.4'
